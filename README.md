@@ -50,7 +50,7 @@ as thresholding, edge detection and clustering (see [Figures](#Figures)).
 
  - Apply Laplacian of Gaussian (LoG) operator.
  - Resize images into (768, 768).
- - Experiment with several neural network architectures (see [Figures](##Figures)).
+ - Experiment with several neural network architectures (see [Figures](#Figures)).
      - U-Net.
      - LinkNet.
      - Feature Pyramid Networks (FPN).
